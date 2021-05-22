@@ -1,1 +1,4 @@
 New file -file7 added in child1 branch by User1
+
+this file is modified by USER 2 and is final
+hello from User2.
