@@ -1,0 +1,1 @@
+New file -file7 added in child1 branch by User1
